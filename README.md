@@ -8,7 +8,7 @@ DISCLAIMER
 
 INSTRUCTIONS
 
-1. Clone the repository (Hint: you can use the command: "git clone https://github.com/Fall-2025-Systems-and-Toolchains/course-project-option-ii-samuelgiovanetti.git")
+1. Clone the repository (Hint: you can use the command: "git clone https://github.com/samuelgiovanetti/Project-Systems-Toolchains-for-AI-Engineers.git")
 2. Unzip the Data.zip file you find into the Data folder.
 3. Open Project2.ipynb using Jupyter Notebook.
 4. Ensure all dependencies are installed. If any are missing, install them. (Hint: Use a virtual environment, Spark can be heinous)
